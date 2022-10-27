@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class For_Ejemplos {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 7;
         Scanner in = new Scanner(System.in);
         System.out.println("Ingrese numero de n: ");
         n = in.nextInt();
