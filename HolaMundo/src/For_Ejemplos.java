@@ -4,6 +4,7 @@ public class For_Ejemplos {
     public static void main(String[] args) {
         int n = 10;
         // INFO NUEVO DESDE IDE V.2
+        // INFO NUEVO DESDE EDITOR WEB
         int m = 5, t =4;
         //
         Scanner in = new Scanner(System.in);
