@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class For_Ejemplos {
     public static void main(String[] args) {
         int n = 10;
+        // INFO NUEVO DESDE IDE
+        int m = 5, t =4;
+        //
         Scanner in = new Scanner(System.in);
         System.out.println("Ingrese numero de n: ");
         n = in.nextInt();
