@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class For_Ejemplos {
     public static void main(String[] args) {
         int n = 10;
-        // INFO NUEVO DESDE IDE
+        // INFO NUEVO DESDE IDE V.2
         int m = 5, t =4;
         //
         Scanner in = new Scanner(System.in);
